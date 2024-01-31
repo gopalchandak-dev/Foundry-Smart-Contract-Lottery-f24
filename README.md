@@ -1,24 +1,16 @@
-# Proveably Random Raffle Contracts
+## web3 (Decentralized Lottery) project
 
-## ABOUT
-
-**This code is to create a proveably random raffle lottery.**
-
-## What we want to do?
-
-1. Users canenter by paying for tickets
-        The ticket fee are going to go to the winner during the draw
-2. After the X period of time, the lottery will automatically draw a winner
-        And this will be done programatically
-3. Using chainlink VRF & Chainlink Automation
-        -> Chainlink VRF -> Randomness
-        -> Chainlink Automation -> Time based trigger
+**hey folks!
+This is a smart contract repository that was produced as part of the learning and development process.**
 
 
-## Tests!
+## About 
 
-1. Write some deploy scripts
-2. Write our tests
-   1. Works on local chain
-   2. Works on Forked Testnet
-   3. Works on Forked Mainnet 
+**These are decentralized smart contract lottery in which anybody can enter by paying the base fare amount, and the winner will be declared after a set length of time (when there are enough players).
+When the lottery is OPEN, anyone can enter, and when the winner is being calculated, it is closed, all at the same time.
+The project also contains the scripts and tests to verify the smart contract.**
+
+
+## Foundry
+
+**Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
