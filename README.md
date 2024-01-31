@@ -1,10 +1,10 @@
-## web3 (Decentralized Lottery) project
+### web3 (Decentralized Lottery) project
 
 **hey folks!
 This is a smart contract repository that was produced as part of the learning and development process.**
 
 
-## About 
+### About 
 
 **These are decentralized smart contract lottery in which anybody can enter by paying the base fare amount, and the winner will be declared after a set length of time (when there are enough players).**
 
@@ -13,6 +13,6 @@ This is a smart contract repository that was produced as part of the learning an
 **The project also contains the scripts and tests to verify the smart contract.**
 
 
-## Foundry
+### Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
