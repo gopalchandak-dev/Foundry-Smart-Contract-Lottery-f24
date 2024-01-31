@@ -7,7 +7,9 @@ This is a smart contract repository that was produced as part of the learning an
 ## About 
 
 **These are decentralized smart contract lottery in which anybody can enter by paying the base fare amount, and the winner will be declared after a set length of time (when there are enough players).**
+
 **When the lottery is OPEN, anyone can enter, and when the winner is being calculated, it is closed, all at the same time.**
+
 **The project also contains the scripts and tests to verify the smart contract.**
 
 
